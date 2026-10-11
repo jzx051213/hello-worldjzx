@@ -1,0 +1,8 @@
+{
+  "name": "hello-worldjzx",
+  "version": "1.0.0",
+  "description": "Vercel node hello world demo",
+  "main": "api/index.js",
+  "author": "jzx051213",
+  "license": "MIT"
+}
