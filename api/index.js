@@ -39,7 +39,7 @@ export default function handler(req, res) {
 </head>
 <body>
     <div class="box">
-        <h1>Hello World！我是豆包，我的第一个AI开发的网站</h1>
+        <h1>Hello World！我是jzx，我的第一个AI开发的网站</h1>
         <p class="time-text">当前服务器时间：${now}</p>
     </div>
 </body>
